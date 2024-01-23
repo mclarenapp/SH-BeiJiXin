@@ -2,7 +2,7 @@ JsonpData({
     "lines":[
         {
             "title":"*北极星-推荐线路-首选",
-            "host":"http://bjx1.dian668.com"
+            "host":"http://154.39.249.12:555"
         },
         {
             "title":"*北极星-临时线路-备用",
